@@ -1,0 +1,8 @@
+Player Name, DateTime, Winner, Loser, Time Elapsed, Shots fired
+
+['cole', '09-11-2024 19:13:32', 'Player', 'AI', '00:00:16', 25]
+['collin', '09-11-2024 19:27:32', 'Player', 'AI', '00:00:17', 25]
+['mccaughlin', '09-11-2024 21:32:25', 'Player', 'AI', '00:00:19', 22]
+
+['kollin', '10-11-2024 14:29:52', None, None, '00:02:41', 5]
+['nono', '10-11-2024 14:59:58', None, None, '00:00:01', 0]

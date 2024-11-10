@@ -1,0 +1,108 @@
+2024-11-10 14:31:13,674 - INFO - Called handle_selection with args=(<__main__.MainMenu object at 0x1036cec90>,), kwargs={}
+2024-11-10 14:31:17,692 - INFO - Called handle_selection with args=(<__main__.MainMenu object at 0x105a4ef30>,), kwargs={}
+2024-11-10 14:31:18,266 - INFO - Called handle_selection with args=(<__main__.SubMenu object at 0x1059dfb90>,), kwargs={}
+2024-11-10 14:31:25,810 - INFO - handle_selection returned None
+2024-11-10 14:31:26,604 - INFO - Called handle_selection with args=(<__main__.SubMenu_History object at 0x1059fdeb0>,), kwargs={}
+2024-11-10 14:31:47,295 - INFO - handle_selection returned None
+2024-11-10 14:31:49,584 - INFO - Called handle_selection with args=(<__main__.SubMenu_History object at 0x1058ed970>,), kwargs={}
+2024-11-10 14:32:00,192 - INFO - handle_selection returned None
+2024-11-10 14:32:00,846 - INFO - Called handle_selection with args=(<__main__.SubMenu_Leaderboard object at 0x10567c1a0>,), kwargs={}
+2024-11-10 14:32:04,271 - INFO - handle_selection returned None
+2024-11-10 14:35:24,031 - INFO - Called handle_selection with args=(<__main__.MainMenu object at 0x1023d31a0>,), kwargs={}
+2024-11-10 14:35:28,038 - INFO - Called handle_selection with args=(<__main__.SubMenu_Leaderboard object at 0x10218c1a0>,), kwargs={}
+2024-11-10 14:39:26,673 - INFO - handle_selection returned None
+2024-11-10 14:39:30,603 - INFO - Called handle_selection with args=(<__main__.MainMenu object at 0x1021672c0>,), kwargs={}
+2024-11-10 14:44:28,761 - INFO - Called handle_selection with args=(<__main__.MainMenu object at 0x103a63290>,), kwargs={}
+2024-11-10 14:44:30,225 - INFO - Called handle_selection with args=(<__main__.SubMenu_History object at 0x103696f30>,), kwargs={}
+2024-11-10 14:45:27,291 - WARNING - Invalid history menu option selected: Exit
+2024-11-10 14:45:32,116 - INFO - Called handle_selection with args=(<__main__.MainMenu object at 0x103b232c0>,), kwargs={}
+2024-11-10 14:45:38,120 - INFO - Called handle_selection with args=(<__main__.SubMenu_History object at 0x1038dde80>,), kwargs={}
+2024-11-10 14:45:48,492 - INFO - handle_selection returned None
+2024-11-10 14:45:53,094 - INFO - Called handle_selection with args=(<__main__.MainMenu object at 0x1022532c0>,), kwargs={}
+2024-11-10 14:45:55,608 - INFO - Called handle_selection with args=(<__main__.MainMenu object at 0x1015972c0>,), kwargs={}
+2024-11-10 14:45:56,427 - INFO - Called handle_selection with args=(<__main__.SubMenu_History object at 0x101351e80>,), kwargs={}
+2024-11-10 14:45:57,782 - WARNING - Invalid history menu option selected: Exit
+2024-11-10 14:45:59,957 - WARNING - Invalid history menu option selected: Exit
+2024-11-10 14:46:01,882 - WARNING - Invalid history menu option selected: Exit
+2024-11-10 14:46:02,874 - WARNING - Invalid history menu option selected: Exit
+2024-11-10 14:46:03,690 - WARNING - Invalid history menu option selected: Exit
+2024-11-10 14:46:45,675 - WARNING - Invalid history menu option selected: None
+2024-11-10 14:46:46,721 - INFO - handle_selection returned None
+2024-11-10 14:46:48,975 - INFO - Called handle_selection with args=(<__main__.MainMenu object at 0x10192b200>,), kwargs={}
+2024-11-10 14:46:50,704 - INFO - Called handle_selection with args=(<__main__.SubMenu_History object at 0x101890a70>,), kwargs={}
+2024-11-10 14:46:52,858 - WARNING - Invalid history menu option selected: Exit
+2024-11-10 14:47:10,299 - INFO - handle_selection returned None
+2024-11-10 14:47:13,922 - INFO - Called handle_selection with args=(<__main__.MainMenu object at 0x10198b260>,), kwargs={}
+2024-11-10 14:47:15,089 - INFO - Called handle_selection with args=(<__main__.SubMenu_History object at 0x1015bc1a0>,), kwargs={}
+2024-11-10 14:47:16,161 - INFO - handle_selection returned None
+2024-11-10 14:47:19,512 - WARNING - Invalid main menu option selected: None
+2024-11-10 14:47:20,907 - INFO - Called handle_selection with args=(<__main__.SubMenu_History object at 0x10198b410>,), kwargs={}
+2024-11-10 14:47:23,800 - WARNING - Invalid history menu option selected: Exit
+2024-11-10 14:47:26,206 - WARNING - Invalid history menu option selected: Exit
+2024-11-10 14:47:27,563 - WARNING - Invalid history menu option selected: Exit
+2024-11-10 14:47:31,132 - WARNING - Invalid history menu option selected: Exit
+2024-11-10 14:50:25,652 - INFO - handle_selection returned None
+2024-11-10 14:50:28,160 - INFO - Called handle_selection with args=(<__main__.MainMenu object at 0x107d4f4a0>,), kwargs={}
+2024-11-10 14:50:29,281 - INFO - Called handle_selection with args=(<__main__.SubMenu object at 0x104ac5790>,), kwargs={}
+2024-11-10 14:50:30,334 - WARNING - Invalid submenu option selected: Exit
+2024-11-10 14:50:33,344 - INFO - handle_selection returned None
+2024-11-10 14:50:33,994 - INFO - Called handle_selection with args=(<__main__.SubMenu_History object at 0x107ae1e80>,), kwargs={}
+2024-11-10 14:50:35,328 - WARNING - Invalid history menu option selected: Exit
+2024-11-10 14:50:37,786 - WARNING - Invalid history menu option selected: Exit
+2024-11-10 14:50:38,687 - WARNING - Invalid history menu option selected: Exit
+2024-11-10 14:50:39,798 - WARNING - Invalid history menu option selected: Exit
+2024-11-10 14:50:40,895 - WARNING - Invalid history menu option selected: Exit
+2024-11-10 14:50:41,628 - WARNING - Invalid history menu option selected: Exit
+2024-11-10 14:50:42,184 - WARNING - Invalid history menu option selected: Exit
+2024-11-10 14:50:42,689 - WARNING - Invalid history menu option selected: Exit
+2024-11-10 14:50:43,129 - WARNING - Invalid history menu option selected: Exit
+2024-11-10 14:52:37,918 - INFO - Called handle_selection with args=(<__main__.MainMenu object at 0x10626f2c0>,), kwargs={}
+2024-11-10 14:52:41,261 - INFO - Called handle_selection with args=(<__main__.SubMenu_History object at 0x10626f440>,), kwargs={}
+2024-11-10 14:52:42,278 - WARNING - Invalid history menu option selected: Exit
+2024-11-10 14:52:45,191 - INFO - handle_selection returned None
+2024-11-10 14:52:47,264 - INFO - Called handle_selection with args=(<__main__.MainMenu object at 0x1024c7080>,), kwargs={}
+2024-11-10 14:52:48,308 - INFO - Called handle_selection with args=(<__main__.SubMenu_History object at 0x10229aba0>,), kwargs={}
+2024-11-10 14:52:49,541 - INFO - handle_selection returned None
+2024-11-10 14:52:50,648 - INFO - Called handle_selection with args=(<__main__.SubMenu object at 0x102362c00>,), kwargs={}
+2024-11-10 14:52:51,880 - WARNING - Invalid submenu option selected: Exit
+2024-11-10 14:52:55,183 - WARNING - Invalid submenu option selected: Exit
+2024-11-10 14:52:56,344 - WARNING - Invalid submenu option selected: Exit
+2024-11-10 14:53:29,647 - INFO - handle_selection returned None
+2024-11-10 14:53:33,115 - INFO - Called handle_selection with args=(<__main__.MainMenu object at 0x105b276e0>,), kwargs={}
+2024-11-10 14:53:34,380 - INFO - Called handle_selection with args=(<__main__.SubMenu object at 0x105989a60>,), kwargs={}
+2024-11-10 14:53:35,333 - WARNING - Invalid submenu option selected: Exit
+2024-11-10 14:53:37,232 - INFO - handle_selection returned None
+2024-11-10 14:53:37,750 - INFO - Called handle_selection with args=(<__main__.SubMenu_History object at 0x105aad790>,), kwargs={}
+2024-11-10 14:53:38,488 - WARNING - Invalid history menu option selected: Exit
+2024-11-10 14:53:45,086 - WARNING - Invalid history menu option selected: Exit
+2024-11-10 14:57:16,307 - INFO - Called handle_selection with args=(<__main__.MainMenu object at 0x10238b6e0>,), kwargs={}
+2024-11-10 14:57:33,382 - INFO - Called handle_selection with args=(<__main__.MainMenu object at 0x1059dbbc0>,), kwargs={}
+2024-11-10 14:57:34,099 - INFO - Called handle_selection with args=(<__main__.SubMenu object at 0x1059686b0>,), kwargs={}
+2024-11-10 14:57:35,087 - WARNING - Invalid submenu option selected: Exit
+2024-11-10 14:57:36,385 - WARNING - Invalid submenu option selected: Exit
+2024-11-10 14:57:37,666 - WARNING - Invalid submenu option selected: Exit
+2024-11-10 14:57:39,026 - WARNING - Invalid submenu option selected: Exit
+2024-11-10 14:58:34,071 - INFO - Called handle_selection with args=(<__main__.MainMenu object at 0x105d4fa10>,), kwargs={}
+2024-11-10 14:58:37,468 - INFO - Called handle_selection with args=(<__main__.SubMenu object at 0x105adaba0>,), kwargs={}
+2024-11-10 14:58:41,305 - INFO - Called handle_selection with args=(<__main__.MainMenu object at 0x1019f9d30>,), kwargs={}
+2024-11-10 14:58:42,236 - INFO - Called handle_selection with args=(<__main__.SubMenu_History object at 0x10198a660>,), kwargs={}
+2024-11-10 14:58:43,781 - INFO - Called handle_selection with args=(<__main__.MainMenu object at 0x1035ef920>,), kwargs={}
+2024-11-10 14:58:44,588 - INFO - Called handle_selection with args=(<__main__.SubMenu object at 0x1033edd60>,), kwargs={}
+2024-11-10 14:58:45,267 - INFO - Called handle_selection with args=(<__main__.SingleplayerMenu object at 0x1035efad0>,), kwargs={}
+2024-11-10 14:58:51,886 - INFO - Called handle_selection with args=(<__main__.MainMenu object at 0x102261c40>,), kwargs={}
+2024-11-10 14:58:53,040 - INFO - Called handle_selection with args=(<__main__.SubMenu_Leaderboard object at 0x102065d60>,), kwargs={}
+2024-11-10 14:59:44,745 - INFO - Called handle_selection with args=(<__main__.MainMenu object at 0x101ff5c40>,), kwargs={}
+2024-11-10 14:59:47,445 - WARNING - Invalid main menu option selected: None
+2024-11-10 14:59:48,660 - WARNING - Invalid main menu option selected: None
+2024-11-10 14:59:49,462 - WARNING - Invalid main menu option selected: None
+2024-11-10 14:59:53,330 - INFO - Called handle_selection with args=(<__main__.MainMenu object at 0x105c3ba10>,), kwargs={}
+2024-11-10 14:59:54,034 - INFO - Called handle_selection with args=(<__main__.SubMenu object at 0x1059c6ba0>,), kwargs={}
+2024-11-10 14:59:54,625 - INFO - Called handle_selection with args=(<__main__.SingleplayerMenu object at 0x105a601a0>,), kwargs={}
+2024-11-10 15:00:00,665 - INFO - handle_selection returned None
+2024-11-10 15:05:31,210 - INFO - Called handle_selection with args=(<__main__.MainMenu object at 0x103a2f3b0>,), kwargs={}
+2024-11-10 15:05:32,400 - INFO - Called handle_selection with args=(<__main__.SubMenu object at 0x1039d2660>,), kwargs={}
+2024-11-10 15:05:35,044 - ERROR - Unexpected Error in handle_selection: None
+2024-11-10 15:05:35,044 - INFO - handle_selection returned None
+2024-11-10 15:10:55,209 - INFO - Called handle_selection with args=(<__main__.MainMenu object at 0x105b6f2f0>,), kwargs={}
+2024-11-10 15:10:56,565 - INFO - Called handle_selection with args=(<__main__.SubMenu object at 0x105985d60>,), kwargs={}
+2024-11-10 15:11:04,662 - INFO - Called handle_selection with args=(<__main__.SingleplayerMenu object at 0x105bcfad0>,), kwargs={}
